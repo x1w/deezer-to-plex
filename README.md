@@ -8,7 +8,7 @@ https://github.com/m8tec/Deezync
 
 ### Configuration
 `base_url` Your Plex server's URL  <br> 
-`plex_token` Plex authentication token [(steps to obtain)]([https://github.com/nathom/streamrip/wiki/Finding-Your-Deezer-ARL-Cookie](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)) <br> 
+`plex_token` Plex authentication token https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/ <br> 
 `playlists` List of public Deezer playlist IDs e.g: ["11118352144", "2021225582"] <br> 
 
 ### Usage
